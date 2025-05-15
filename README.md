@@ -1,7 +1,3 @@
-# Synthetic Credit Card BI Pet‑Project
-
-**Generated**: 2025-05-13
-
 ## Overview
 End‑to‑end demo on Python + PostgreSQL using a fully synthetic CSV
 (~1 M rows, 50 000 customers, year 2019).

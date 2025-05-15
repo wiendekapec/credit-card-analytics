@@ -1,5 +1,5 @@
 ## Overview
-End‑to‑end demo on Python + PostgreSQL using a fully synthetic CSV
+End‑to‑end demo on Python + PostgreSQL using a CSV dataset
 (~1 M rows, 50 000 customers, year 2019).
 
 * ETL builds a star‑schema automatically.
